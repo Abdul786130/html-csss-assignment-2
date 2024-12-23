@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ass-02__App-Form</title>
+    <link rel="stylesheet" href="form_style.css" />
+  </head>
+  <body>
+    <h1 style="font-family: popB">APPLICATION FORM</h1>
+
+    <form>
+      <label for="Name">First Name:</label>
+      <input type="text" name="name" value="" required />
+      <label for="Name">Last Name:</label>
+      <input type="text" name="name" value="" required />
+      <br /><br />
+      <label for="birthday">Date Of Birth:</label>
+      <input type="date" name="date" value="" required />
+      <label for="Age">Age:</label>
+      <input type="number" name="number" value="" required />
+      <br /><br />
+      <label for="Gender">Gender</label>
+      <select name="Gender" id="">
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+      </select>
+      <label for="email">Email Address:</label>
+      <input type="email" name="email" id="" placeholder="Enter Email Address" required/>
+      <br><br>
+      <label for="text">Positions Available</label>
+      <label> <input type="radio" name="position" />Junior Developer </label>
+      <label> <input type="radio" name="position" />Mid-level Developer </label
+      ><label> <input type="radio" name="position" />Senior Developer </label>
+      <br />
+      <br />
+      <label for="text">Programing Languages</label>
+      <label> <input type="checkbox" name="lang" />JavaScript </label>
+      <label> <input type="checkbox" name="lang" />Python </label
+      ><label> <input type="checkbox" name="lang" />C++ </label>
+      <br />
+      <br />
+      <label for="pass">Password:</label>
+      <input type="text" name="pass" required />
+      <label for="pass">Confirm Password:</label>
+      <input type="text" name="pass" required />
+      <br />
+      <br />
+      <input type="submit" />
+      <input type="reset" />
+
+    </form>
+  </body>
+</html>
