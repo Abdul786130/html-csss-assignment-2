@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+<h1 style="color: blue;">Time Management Plan Template</h1>
+
+<body>
+
+    <table border="1">
+
+<tr>
+<td></td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+
+<tr>
+<td></td>
+<td style="background-color: lightblue;">05/21/2025</td>
+<td style="background-color: lightblue;">05/22/2025</td>
+<td style="background-color: lightblue;">05/23/2025</td>
+<td style="background-color: lightblue;">05/24/2025</td>
+<td style="background-color: lightblue;">05/25/2025</td>
+</tr>
+
+<tr>
+
+<td>8:00am</td>
+<td style="background-color: blanchedalmond;" rowspan="2">Organization/Planning</td>
+<td style="background-color: aqua;">Email</td>
+<td style="background-color: aqua;">Email</td>
+<td style="background-color: aqua;">Email</td>
+<td style="background-color: aqua;">Email</td>
+</tr>
+
+<tr>
+
+<td>8:30am</td>
+<td rowspan="6" style="background-color: aquamarine;">Design</td>
+<td rowspan="6" style="background-color: aquamarine;">Design</td>
+<td rowspan="2" style="background-color: blueviolet;" >Editing</td>
+<td rowspan="2" style="background-color: blueviolet;">Editing</td>
+</tr>
+
+<tr>
+    <td>9:00am</td>
+    <td style="background-color: aqua;">Email</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>9:30am</td>
+    <td rowspan="2" style="background-color: brown;">Strategy Meeting</td>
+    <td rowspan="4" style="background-color: burlywood;">presentation to stake holder</td>
+    <td rowspan="6" style="background-color: aquamarine;">Design</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+
+
+    <td>10:00am</td>
+    
+    
+    
+</tr>
+
+
+<tr>
+
+    <td>10:30am</td>
+    <td rowspan="2" style="background-color: aquamarine;">Campaign Research</td>
+    
+    
+    
+</tr>
+
+<tr>
+
+    <td>11:00am</td>
+    <td></td>
+    
+    
+    
+</tr>
+
+<tr>
+
+    <td>11:30am</td>
+    <td rowspan="2" style="background-color: chocolate;">Lunch</td>
+    <td rowspan="2" style="background-color: chocolate;">Lunch</td>
+    <td rowspan="2" style="background-color: blueviolet;">Editing</td>
+    <td rowspan="2" style="background-color: chocolate;">Lunch</td>
+    <td></td>
+
+</tr>
+
+<tr>
+    <td>12:00pm</td>
+    
+</tr>
+
+
+<tr>
+    <td>12:30pm</td>
+    <td rowspan="3" style="background-color: chartreuse;">Campaign Research</td>
+    <td rowspan="4" style="background-color: cornflowerblue;">Marketing Meeting</td>
+    <td rowspan="2" style="background-color: chocolate;">Lunch</td>
+    <td rowspan="6" style="background-color: aquamarine;">Design</td>
+    <td rowspan="2" style="background-color: chocolate;">Lunch</td>
+</tr>
+
+<tr>
+    <td>01:00pm</td>
+
+</tr>
+
+<tr>
+    <td>01:30pm</td>
+    <td rowspan="2" style="background-color: crimson;">Campaign 3 Copy Meeting</td>
+    <td style="background-color: aqua;">Email</td>
+</tr>
+
+<tr>
+    <td>02:00pm</td>
+    <td rowspan="6" style="background-color: aquamarine;">Design</td>
+    <td rowspan="3" style="background-color: blueviolet;">Editing</td>
+    </tr>
+
+
+    <tr>
+<td>02:30pm</td>
+<td rowspan="4" style="background-color: darkcyan;">Design and copy Spring Campaign Presentation</td>
+<td style="background-color: aquamarine;"> Design</td>
+</tr>
+
+<tr>
+    <td>03:00pm</td>
+    <td rowspan="2" style="background-color: darksalmon;">Team Leader Meeting</td>
+</tr>
+
+<tr>
+
+    <td>3:30pm</td>
+    <td rowspan="3" style="background-color: yellowgreen;">OOO Appointment</td>
+    <td rowspan="4"  style="background-color: violet;">Company Wide Meeting</td>
+
+</tr>
+
+<tr><td>04:00pm</td>
+    <td rowspan="2" style="background-color: springgreen;">Peer Review</td>
+    </tr>
+
+    <tr>
+        <td>04:30pm</td>
+        <td style="background-color: aqua;">Email</td>
+
+    </tr>
+
+<tr>
+
+    <td>05:00pm</td>
+    <td rowspan="2" style="background-color: seagreen;">West Coast Campaign Meeting</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2" style="background-color: seagreen;">West Coast Campaign meeting</td>
+    <td></td>
+</tr>
+
+<tr><td>05:30pm</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
+
+
+
+
+
+
+
+
+</table>
+    
+</body>
+</html>
